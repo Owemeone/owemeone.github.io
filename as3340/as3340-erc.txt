@@ -1,0 +1,219 @@
+ERC report (Sun Aug 20 12:14:22 2023, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(219.7100 mm, 97.7900 mm): Symbol #PWR0138 [GND]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(223.5200 mm, 121.9200 mm): Symbol #PWR0135 [+12V]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(219.7100 mm, 88.9000 mm): Symbol #PWR0137 [+12V]
+[lib_symbol_issues]: Symbol '1N4148' has been modified in library 'Diode'
+    ; Severity: warning
+    @(198.1200 mm, 27.9400 mm): Symbol D3 [1N4148]
+[lib_symbol_issues]: Symbol '1N4148' has been modified in library 'Diode'
+    ; Severity: warning
+    @(198.1200 mm, 35.5600 mm): Symbol D1 [1N4148]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(139.7000 mm, 140.9700 mm): Symbol #PWR0152 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(144.7800 mm, 135.8900 mm): Symbol #PWR0155 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(219.7100 mm, 160.0200 mm): Symbol #PWR0131 [GND]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(223.5200 mm, 152.4000 mm): Symbol #PWR0132 [+12V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(219.7100 mm, 129.5400 mm): Symbol #PWR0134 [GND]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(265.4300 mm, 147.3200 mm): Symbol J7 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(259.0800 mm, 151.1300 mm): Symbol #PWR0133 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(190.5000 mm, 45.7200 mm): Symbol #PWR0141 [GND]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(149.8600 mm, 19.0500 mm): Symbol #PWR0119 [+12V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(184.1500 mm, 27.9400 mm): Symbol #PWR0140 [GND]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(265.4300 mm, 85.0900 mm): Symbol J1 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(259.0800 mm, 88.9000 mm): Symbol #PWR0139 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(259.0800 mm, 120.6500 mm): Symbol #PWR0136 [GND]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(265.4300 mm, 116.8400 mm): Symbol J2 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(238.7600 mm, 48.2600 mm): Symbol #PWR0143 [GND]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(265.4300 mm, 27.9400 mm): Symbol J12 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(259.0800 mm, 31.7500 mm): Symbol #PWR0142 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(163.8300 mm, 22.8600 mm): Symbol #PWR0120 [GND]
+[lib_symbol_issues]: Symbol '-12V' has been modified in library 'power'
+    ; Severity: warning
+    @(148.5900 mm, 88.9000 mm): Symbol #PWR0104 [-12V]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(151.1300 mm, 91.4400 mm): Symbol #FLG0101 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(151.1300 mm, 93.9800 mm): Symbol #FLG0102 [PWR_FLAG]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(152.4000 mm, 60.9600 mm): Symbol #PWR0117 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(148.5900 mm, 95.2500 mm): Symbol #PWR0106 [GND]
+[lib_symbol_issues]: Symbol 'PWR_FLAG' has been modified in library 'power'
+    ; Severity: warning
+    @(151.1300 mm, 101.6000 mm): Symbol #FLG0103 [PWR_FLAG]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(148.5900 mm, 104.1400 mm): Symbol #PWR0102 [+12V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(62.2300 mm, 92.7100 mm): Symbol #PWR0112 [GND]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(105.4100 mm, 44.4500 mm): Symbol #PWR0129 [+12V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(115.5700 mm, 58.4200 mm): Symbol #PWR0130 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(71.1200 mm, 48.2600 mm): Symbol #PWR0145 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(36.8300 mm, 115.5700 mm): Symbol #PWR0115 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(46.9900 mm, 73.6600 mm): Symbol #PWR0109 [+5V]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(44.4500 mm, 91.4400 mm): Symbol #PWR0113 [+5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(39.3700 mm, 87.6300 mm): Symbol #PWR0111 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(44.4500 mm, 101.6000 mm): Symbol #PWR0114 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(39.3700 mm, 67.3100 mm): Symbol #PWR0144 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(39.3700 mm, 77.4700 mm): Symbol #PWR0110 [+5V]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(27.9400 mm, 111.7600 mm): Symbol J3 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(20.3200 mm, 43.1800 mm): Symbol #PWR0107 [GND]
+[multiple_net_names]: Both VEE and -5V are attached to the same items; VEE will be used in the netlist
+    ; Severity: warning
+    @(149.8600 mm, 59.6900 mm): Global Label 'VEE'
+    @(31.7500 mm, 36.8300 mm): Symbol #PWR0108 Hidden pin 1 [-5V, Power input, Line]
+[lib_symbol_issues]: Symbol '-5V' has been modified in library 'power'
+    ; Severity: warning
+    @(31.7500 mm, 36.8300 mm): Symbol #PWR0108 [-5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(128.2700 mm, 95.2500 mm): Symbol #PWR0105 [GND]
+[lib_symbol_issues]: Symbol '-12V' has been modified in library 'power'
+    ; Severity: warning
+    @(128.2700 mm, 88.9000 mm): Symbol #PWR0103 [-12V]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(128.2700 mm, 104.1400 mm): Symbol #PWR0101 [+12V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(128.2700 mm, 59.6900 mm): Symbol #PWR0118 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(34.2900 mm, 139.7000 mm): Symbol #PWR0146 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(60.9600 mm, 160.0200 mm): Symbol #PWR0149 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(38.1000 mm, 132.0800 mm): Symbol #PWR0116 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(36.8300 mm, 175.2600 mm): Symbol #PWR0127 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(149.8600 mm, 166.3700 mm): Symbol #PWR0122 [GND]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(124.4600 mm, 170.1800 mm): Symbol #PWR0126 [+5V]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(104.1400 mm, 170.1800 mm): Symbol #PWR0124 [+12V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(119.3800 mm, 135.8900 mm): Symbol #PWR0154 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(124.4600 mm, 140.9700 mm): Symbol #PWR0153 [GND]
+[lib_symbol_issues]: Symbol '+12V' has been modified in library 'power'
+    ; Severity: warning
+    @(139.7000 mm, 128.2700 mm): Symbol #PWR0151 [+12V]
+[lib_symbol_issues]: Symbol '-12V' has been modified in library 'power'
+    ; Severity: warning
+    @(124.4600 mm, 128.2700 mm): Symbol #PWR0150 [-12V]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(27.9400 mm, 128.2700 mm): Symbol J5 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(27.9400 mm, 171.4500 mm): Symbol J4 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(38.1000 mm, 157.4800 mm): Symbol #PWR0147 [GND]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(27.9400 mm, 143.5100 mm): Symbol J8 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol 'AudioJack2_SwitchT' not found in symbol library 'Connector'
+    ; Severity: warning
+    @(27.9400 mm, 187.9600 mm): Symbol J6 [AudioJack2_SwitchT]
+[lib_symbol_issues]: Symbol '+5V' has been modified in library 'power'
+    ; Severity: warning
+    @(46.9900 mm, 142.2400 mm): Symbol #PWR0148 [+5V]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(36.8300 mm, 191.7700 mm): Symbol #PWR0128 [GND]
+[lib_symbol_issues]: Symbol 'GND' has been modified in library 'power'
+    ; Severity: warning
+    @(114.3000 mm, 182.8800 mm): Symbol #PWR0125 [GND]
+[lib_symbol_issues]: Symbol '-5V' has been modified in library 'power'
+    ; Severity: warning
+    @(160.0200 mm, 185.4200 mm): Symbol #PWR0123 [-5V]
+[lib_symbol_issues]: Symbol '-12V' has been modified in library 'power'
+    ; Severity: warning
+    @(138.4300 mm, 185.4200 mm): Symbol #PWR0121 [-12V]
+[lib_symbol_issues]: Symbol '1N4148' has been modified in library 'Diode'
+    ; Severity: warning
+    @(149.8600 mm, 184.1500 mm): Symbol D2 [1N4148]
+
+ ** ERC messages: 71  Errors 0  Warnings 71
